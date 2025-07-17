@@ -14,8 +14,9 @@ print(l)
 l1 = l.copy()
 print(l1)
 
-# Extends adds multiple elements at the end of list
 print(l.count(1))
+
+# Extends adds multiple elements at the end of list
 l.extend([300,"why",300]) 
 print(l)
 
