@@ -82,4 +82,3 @@ print("Sorted List: ",l)
 
 
 
-# for i in range()
