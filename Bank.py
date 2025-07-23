@@ -67,10 +67,10 @@ Press 4 for exit
         break
 
 
-For multiple users, you need to apply the code like below:
-accounts = {}
-acc_no = random.randint(10000000,99999999)
-and
-accounts[acc_no] = {'mp': mp, 'mobile': mobile}
+# For multiple users, you need to apply the code like below:
+# accounts = {}
+# acc_no = random.randint(10000000,99999999)
+# and
+# accounts[acc_no] = {'mp': mp, 'mobile': mobile}
 
 
