@@ -7,7 +7,7 @@
 
 # except : It specifies what action to take when a particular exception is raised within the try block. You can have one or more except blocks to handle different types of errors.
 
-# finally : 
+# finally : This optional block contains code that will always be executed, no matter what happens in the try, except, or else blocks.
 
 # try:
 #     n = int(input("Enter no. "))
