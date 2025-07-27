@@ -1,0 +1,13 @@
+OOPs: Object Oriented Programming system.
+
+- There are 5 pillars.
+
+1. class & object
+
+2. inheritance
+
+3. encapsulation
+
+4. abstraction
+
+5. polymorphism
